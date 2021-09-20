@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="TAG_GAME">GAME_ACTIVITY</string>
+    <string name="x_turn_to_play">X\'s Turn - Tap to play</string>
+    <string name="O_turn_to_play">O\'s Turn - Tap to play</string>
+    <string name="match_draw">Match Draw</string>
+</resources>
